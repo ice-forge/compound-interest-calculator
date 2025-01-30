@@ -17,11 +17,11 @@ The script uses the following constants that can be modified:
 ```python
 PRINCIPAL = 1000000              # Initial investment
 MONTHLY_MONEY_DEPOSIT = 0        # Monthly contribution
-RATE_OF_RETURN = 0.25           # Annual rate of return (25%)
+RATE_OF_RETURN = 0.25            # Annual rate of return (25%)
 YEARS_SPENT_COMPOUNDING = 10     # Investment timeframe
-DIVIDEND_YIELD = 0.00316        # Annual dividend yield (0.316%)
-REINVEST_DIVIDENDS = True       # Toggle dividend reinvestment
-GOAL = 8640800                  # Target amount
+DIVIDEND_YIELD = 0.00316         # Annual dividend yield (0.316%)
+REINVEST_DIVIDENDS = True        # Toggle dividend reinvestment
+GOAL = 8640800                   # Target amount
 ```
 
 ## Output
